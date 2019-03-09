@@ -1,4 +1,4 @@
-# Learning Mongo: Lesson 2: Using Mongo with downloaded
+# Learning Mongo: Lesson 2: Using Mongo with Node and Mongoose
 
 We're going to use the [Mongoose](https://mongoosejs.com/) library with Node.
 Mongoose provides an *object data model* for MongoDB, so that you can access
