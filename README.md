@@ -1,4 +1,4 @@
-## Learning MongoDb
+## Learning MongoDB
 
 This is a set of lessons that will help you learn [MongoDB](https://www.mongodb.com/).
 
