@@ -15,7 +15,7 @@ npm init
 Install Mongoose:
 
 ```
-npm install mongoosejs
+npm install mongoose
 ```
 
 Now create `server.js` so that it contains:
